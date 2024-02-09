@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sky Lim Shi Kai</h1>
-<h3 align="center">A third year student from Universiti Teknologi Malaysia, Johor Bahru, Malaysia</h3>
+<h3 align="center">A third-year student from Universiti Teknologi Malaysia, Johor Bahru, Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skylimsk&label=Profile%20views&color=0e75b6&style=flat" alt="skylimsk" /> </p>
 
-- 🔭 I’m currently working on [CarbonSense](https://github.com/Pudd11ng/CarbonSense)
+- 🔭 I’m currently working on [UTM Hanfu Club Portal]
 
 - 🌱 I’m currently learning **C#, Dart**
 
